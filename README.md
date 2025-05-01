@@ -4,8 +4,8 @@ A passionate web developer on a mission to create digital experiences that leave
 🛠️ Tech Stack:
 
 HTML5, CSS3, JavaScript (ES6+)
-Frameworks/Libraries: React.js, Bootstrap, Tailwind Css, Material UI, Jest, Redux/toolkit
-Backend: Node.js, Express.js, PHP
+Frameworks/Libraries: React.js, NextJS, Bootstrap, Tailwind Css, Material UI, Jest, Redux/toolkit
+Backend: Node.js, Express.js, PHP, Python, NestJs
 Database: MongoDB, MYSQL
 Version control with Git and GitHub
 Webpack, Babel, and other build tools
@@ -22,4 +22,4 @@ RESTful APIs and integration with backend services
 Website: https://koas.netlify.app
 What'sApp: +2348124823198
 Email: oluwafemiayobami2@gmail.com
-LinkedIn: https://www.linkedin.com/in/kazeem-oluwafemi-a91987255/
+LinkedIn: https://www.linkedin.com/in/abdullahi-oluwafemi-46b646336/
