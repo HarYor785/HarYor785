@@ -1,4 +1,4 @@
-👋 Hello, I'm Oluwafemi Ayobami
+👋 Hello, I'm Abdullahi Oluwafemi Solomon
 
 A passionate web developer on a mission to create digital experiences that leave an impact. With a love for clean code and a knack for problem-solving, I'm dedicated to pushing the boundaries of what's possible on the web. Whether it's front-end magic, back-end logic, or the perfect blend of both, I'm always up for a coding adventure.
 🛠️ Tech Stack:
